@@ -1,0 +1,32 @@
+/* Styles for the main Angular component */
+h1 {
+  color: #2c3e50;
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+h2 {
+  color: #34495e;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
+a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
